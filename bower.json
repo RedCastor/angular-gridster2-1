@@ -1,0 +1,30 @@
+{
+  "name": "angular-gridster2-1.x",
+  "version": "1.18.0",
+  "homepage": "https://github.io/tiberiuzuld/angular-gridster2",
+  "authors": [
+    "tiberiuzuld@gmail.com"
+  ],
+  "description": "Bower package of angular-gridster2 for AngularJS",
+  "keywords": [
+    "angular",
+    "gridster",
+    "widgets",
+    "redcastor",
+    "angularjs",
+    "directive"
+  ],
+  "main": [
+    "dist/gridster.js",
+    "dist/gridster.css"
+  ],
+  "ignore": [
+    "**/.*",
+    "**/*.txt",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": ">=1.6.0"
+  }
+}
