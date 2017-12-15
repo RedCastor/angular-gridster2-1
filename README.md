@@ -12,6 +12,10 @@ angular-gridster2
   npm install angular-gridster2@1.x --save
 ```
 
+```bash
+  bower install angular-gridster2-1.x --save
+```
+
 Then import the following in your HTML:
 
 ```html
