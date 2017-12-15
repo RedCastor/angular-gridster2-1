@@ -64,7 +64,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/RedCastor/angular-gridster2-1.x.git"
+    "url": "git+https://github.com/RedCastor/angular-gridster2-1.x.git"
   },
   "description": "NPM package of angular-gridster2 for AngularJS",
   "keywords": [
@@ -85,5 +85,6 @@
     "dist/gridster.css",
     "dist/gridster.js",
     "index.js"
-  ]
+  ],
+  "author": "RedCastor <team@redcastor.io> (https://redcastor.io)"
 }

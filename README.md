@@ -9,7 +9,7 @@ angular-gridster2
 
 #### Install
 ```bash
-  npm install angular-gridster2@1.x --save
+  npm install angular-gridster2-1.x --save
 ```
 
 ```bash
